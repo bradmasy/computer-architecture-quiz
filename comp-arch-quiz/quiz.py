@@ -2,7 +2,7 @@ import json
 import random
 
 
-AMOUNT_OF_QUESTIONS = 16
+AMOUNT_OF_QUESTIONS = 27
 AMOUNT_OF_QUESTIONS_CHAPTER_4_AND_5 = 38
 BEGINNING_OF_QUESTIONS = 1
 
@@ -14,8 +14,6 @@ def get_json_file(chapter_number):
     :param chapter_number: the chapter number the user provides
     :return: the corresponding JSON file
     """
-
-
 
     json_file = None
     if chapter_number == 1:

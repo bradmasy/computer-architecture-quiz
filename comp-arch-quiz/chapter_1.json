@@ -113,13 +113,207 @@
   },
   "12": {
     "question": "Convert an entire higher-level language into an equivalent lower level language program all at once, is a...",
-    "choice": {
+    "choices": {
       "a": "Compiler",
       "b": "Interpreter"
     }
   },
   "13": {
-    "question": ""
+    "question": "Converts one instruction from a higher level language program into the equivalent lower level language program and executes it immediately, is a...",
+    "choices": {
+      "a": "Compiler",
+      "b": "Interpreter"
+    }
+  },
+  "14": {
+    "question": "a JavaScript program is an example of...",
+    "choices": {
+      "a": "Translation",
+      "b": "Interpretation"
+    }
+  },
+  "15": {
+    "question": "2^39 is how many GB?",
+    "choices": {
+      "a": "200",
+      "b": "312",
+      "c": "1024",
+      "d": "512"
+    }
+  },
+  "16": {
+    "question": "a program is a sequence of instructions describing how to perform a certain task...",
+    "choices": {
+      "a": "True",
+      "b": "False"
+    }
+  },
+  "17": {
+    "question": "Machine Language is known as...",
+    "choices": {
+      "a": "a computers primitive instructions from a language in which people can communicate to the computer",
+      "b": "language in which only the machines understand",
+      "c": "very simple language written in 0s and 1s",
+      "d": "a and b",
+      "e": "a and c"
+    }
+  },
+  "18": {
+    "question": "Which layer contains the ALU unit?",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "19": {
+    "question": "How many digits can a register hold?",
+    "choices": {
+      "a": "1",
+      "b": "2",
+      "c": "8",
+      "d": "16"
+    }
+  },
+  "20": {
+    "question": "Describes the machines instruction set...",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "21": {
+    "question": "describes how instructions are carried out interpretively by the microprogram or hardware execution circuits",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "22": {
+    "question": "each corresponding interpreter needs its own machine language reference manual is in which layer...",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "23": {
+    "question": "the nature of the language begins to change in this layer...",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "24": {
+    "question": "programs in these languages consist of long series of numbers, is in what layer...",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "25": {
+    "question": "which layer has the Operating System as its Interface?",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "26": {
+    "question": "Some instructions are run by the interface and some by the micro program is what level?",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "27": {
+    "question": "ability to concurrently run two or more programs is in which layer?",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "28": {
+    "question": "programs written in a computers true machine language can be directly executed by the computers electronic circuits without translators/interpreters"
+    "choices": {
+      "a": "True",
+      "b": "False"
+    }
+  },
+  "29": {
+    "question": "Consists of higher level languages such as C, C++, Python, Java...",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "30": {
+    "question": "a program called \"the assembler\" performs translations to level 1,2, or 3 languages",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "31": {
+    "question": "Instructions that are identical to level two instructions are directly run by the microprogram not this levels interface",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "32": {
+    "question": "a detailed set of instructions telling the computer how to do something is a...",
+    "choices": {
+      "a": "Compiler",
+      "b": "Algorithm",
+      "c": "Program",
+      "d": "Assembler"
+    }
   },
   "answer_key": {
     "1": "b",
@@ -133,6 +327,26 @@
     "9": "e",
     "10": "e",
     "11": "b",
-    "12": "a"
+    "12": "a",
+    "13": "b",
+    "14": "b",
+    "15": "d",
+    "16": "a",
+    "17": "e",
+    "18": "b",
+    "19": "a",
+    "20": "f",
+    "21": "f",
+    "22": "f",
+    "23": "e",
+    "24": "e",
+    "25": "c",
+    "26": "c",
+    "27": "c",
+    "28": "a",
+    "29": "d",
+    "30": "e",
+    "31": "c",
+    "32": "b"
   }
 }
