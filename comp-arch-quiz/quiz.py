@@ -33,7 +33,8 @@ def get_json_file(chapter_number):
     elif chapter_number == 11 or chapter_number == 13:
         json_file = "chapter_11_and_13_questions.json"
     elif chapter_number == 16:
-        json_file = "chapter_16_questions.json"
+        json_file = "chapter_16_questions.jso" \
+                    "n"
     return json_file
 
 
