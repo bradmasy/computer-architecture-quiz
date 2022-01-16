@@ -1,0 +1,138 @@
+{
+  "1": {
+    "question": "How many bytes are in a Megabyte?(MB)",
+    "choices": {
+      "a": "2^10 : 1024",
+      "b": "2^20 : 1048576",
+      "c": "2^30 : 1073741824",
+      "d": "2^40 : 1.099511628 x 10^12"
+    }
+  },
+  "2": {
+    "question": "How many bytes are in a Kilobyte(KB)?",
+    "choices": {
+      "a": "2^10 : 1024",
+      "b": "2^20 : 1048576",
+      "c": "2^30 : 1073741824",
+      "d": "2^40 : 1.099511628 x 10^12"
+    }
+  },
+  "3": {
+    "question": "How many bytes are in a Gigabyte(GB)?",
+    "choices": {
+      "a": "2^10 : 1024",
+      "b": "2^20 : 1048576",
+      "c": "2^30 : 1073741824",
+      "d": "2^40 : 1.099511628 x 10^12"
+    }
+  },
+  "4": {
+    "question": "How many bytes are in a Terabyte(TB)?",
+    "choices": {
+      "a": "2^10 : 1024",
+      "b": "2^20 : 1048576",
+      "c": "2^30 : 1073741824",
+      "d": "2^40 : 1.099511628 x 10^12"
+    }
+  },
+  "5": {
+    "question": "What is Level One?",
+    "choices": {
+      "a": "Digital Logic Level",
+      "b": "Micro architecture Level",
+      "c": "Introduction Set Architecture (ISA)",
+      "d": "Hybrid Level",
+      "e": "Assembly Language Level",
+      "f": "Problem Oriented Language Level"
+    }
+  },
+  "6": {
+    "question": "What is Level Two?",
+    "choices": {
+      "a": "Hybrid Level",
+      "b": "Micro architecture Level",
+      "c": "Assembly Language Level",
+      "d": "Digital Logic Level",
+      "e": "Introduction Set Architecture (ISA)",
+      "f": "Problem Oriented Language Level"
+    }
+  },
+  "7": {
+    "question": "What is Level Three?",
+    "choices": {
+      "a": "Hybrid Level",
+      "b": "Micro architecture Level",
+      "c": "Assembly Language Level",
+      "d": "Digital Logic Level",
+      "e": "Introduction Set Architecture (ISA)",
+      "f": "Problem Oriented Language Level"
+    }
+  },
+  "8": {
+    "question": "What is Level Four?",
+    "choices": {
+      "a": "Hybrid Level",
+      "b": "Micro architecture Level",
+      "c": "Assembly Language Level",
+      "d": "Digital Logic Level",
+      "e": "Introduction Set Architecture (ISA)",
+      "f": "Problem Oriented Language Level"
+    }
+  },
+  "9": {
+    "question": "What is Level Five?",
+    "choices": {
+      "a": "Digital Logic Level",
+      "b": "Micro architecture Level",
+      "c": "Assembly Language Level",
+      "d": "Hybrid Level",
+      "e": "Problem Oriented Language Level",
+      "f": "Introduction Set Architecture (ISA)"
+    }
+  },
+  "10": {
+    "question": "What is a \"bus\"?",
+    "choices": {
+      "a": "Ways in which the software communicates with the motherboard",
+      "b": "CPU Memory, stores one single binary number",
+      "c": "Controls the operation of the data path on some machines",
+      "d": "Contains the ALU unit",
+      "e": "Common electrical pathway along which data travels between devices"
+    }
+  },
+  "11": {
+    "question": "At what level do we see a collection of 8 to 32 registers to form a local memory?",
+    "choices": {
+      "a": "The Digital Logic Level",
+      "b": "The Micro Architecture Level",
+      "c": "The Hybrid Level",
+      "d": "The Problem Oriented Language Level",
+      "e": "The Assembly Language Level",
+      "f": "The Introduction Set Assembly Level"
+    }
+  },
+  "12": {
+    "question": "Convert an entire higher-level language into an equivalent lower level language program all at once, is a...",
+    "choice": {
+      "a": "Compiler",
+      "b": "Interpreter"
+    }
+  },
+  "13": {
+    "question": ""
+  },
+  "answer_key": {
+    "1": "b",
+    "2": "a",
+    "3": "c",
+    "4": "d",
+    "5": "a",
+    "6": "b",
+    "7": "a",
+    "8": "c",
+    "9": "e",
+    "10": "e",
+    "11": "b",
+    "12": "a"
+  }
+}
